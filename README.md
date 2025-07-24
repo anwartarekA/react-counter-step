@@ -13,3 +13,4 @@ A minimal and interactive step counter built with React. It allows users to incr
 
 - **Frontend**: React (CRA) jsx , css
 - **Hooks Used**: useState
+### [Run](https://version2-tau.vercel.app/)😍
